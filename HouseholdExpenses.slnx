@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Household.Api/Household.Api.csproj" />
+  <Project Path="Household.Application/Household.Application.csproj" />
+  <Project Path="Household.Domain/Household.Domain.csproj" />
+  <Project Path="Household.Infrastructure/Household.Infrastructure.csproj" />
+</Solution>

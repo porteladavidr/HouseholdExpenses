@@ -1,0 +1,11 @@
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\bin\Debug\net10.0\Household.Domain.deps.json
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\bin\Debug\net10.0\Household.Domain.dll
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\bin\Debug\net10.0\Household.Domain.pdb
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\Household.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\Household.Domain.AssemblyInfoInputs.cache
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\Household.Domain.AssemblyInfo.cs
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\Household.Domain.csproj.CoreCompileInputs.cache
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\Household.Domain.dll
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\refint\Household.Domain.dll
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\Household.Domain.pdb
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Domain\obj\Debug\net10.0\ref\Household.Domain.dll

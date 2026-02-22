@@ -1,0 +1,15 @@
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\bin\Debug\net10.0\Household.Application.deps.json
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\bin\Debug\net10.0\Household.Application.dll
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\bin\Debug\net10.0\Household.Application.pdb
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\bin\Debug\net10.0\Household.Domain.dll
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\bin\Debug\net10.0\Household.Domain.pdb
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Household.Application.csproj.AssemblyReference.cache
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Household.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Household.Application.AssemblyInfoInputs.cache
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Household.Application.AssemblyInfo.cs
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Household.Application.csproj.CoreCompileInputs.cache
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Househol.DAF00546.Up2Date
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Household.Application.dll
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\refint\Household.Application.dll
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\Household.Application.pdb
+C:\David\Projetos\Teste Maxprodi\HouseholdExpenses\Household.Application\obj\Debug\net10.0\ref\Household.Application.dll
